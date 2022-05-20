@@ -1,3 +1,5 @@
+# ALien Apocalypse & Infection Problem using BFS or DFS
+
 Task 1:
 An educational institution “X” has hired someone to design a system known as an “Infected tracker. An infected tracker tries to figure out the region/number of surrounding people who can be affected by a single person. Then it prints the maximum region infected. Here Y can considered as being infected and N as not infected.
 
